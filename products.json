@@ -1,0 +1,481 @@
+{
+      "products": [
+            {
+                  "type": 1,
+                  "price": 113.23,
+                  "name": "Суп гороховый",
+                  "weight": 270,
+                  "img": "hot-dishes-img.png",
+                  "cuisine": 3,
+                  "protein": 1
+            },
+            {
+                  "type": 1,
+                  "price": 113.23,
+                  "name": "Суп харчо",
+                  "weight": 270,
+                  "img": "hot-dishes-img.png",
+                  "cuisine": 3,
+                  "protein": 1
+            },
+            {
+                  "type": 1,
+                  "price": 113.23,
+                  "name": "Борщ",
+                  "weight": 270,
+                  "img": "hot-dishes-img.png",
+                  "cuisine": 3,
+                  "protein": 1
+            },
+            {
+                  "type": 1,
+                  "price": 113.23,
+                  "name": "Лапша",
+                  "weight": 270,
+                  "img": "hot-dishes-img.png",
+                  "cuisine": 3,
+                  "protein": 1
+            },
+            {
+                  "type": 1,
+                  "price": 113.23,
+                  "name": "Рассольник",
+                  "weight": 270,
+                  "img": "hot-dishes-img.png",
+                  "cuisine": 3,
+                  "protein": 1
+            },
+            {
+                  "type": 1,
+                  "price": 113.23,
+                  "name": "Солянка",
+                  "weight": 270,
+                  "img": "hot-dishes-img.png",
+                  "cuisine": 3,
+                  "protein": 1
+            },
+            {
+                  "type": 1,
+                  "price": 113.23,
+                  "name": "Суп грибной",
+                  "weight": 270,
+                  "img": "hot-dishes-img.png",
+                  "cuisine": 3,
+                  "protein": 1
+            },
+            {
+                  "type": 1,
+                  "price": 113.23,
+                  "name": "Суп с щавелем",
+                  "weight": 270,
+                  "img": "hot-dishes-img.png",
+                  "cuisine": 3,
+                  "protein": 1
+            },
+            {
+                  "type": 1,
+                  "price": 113.23,
+                  "name": "Суп индийский",
+                  "weight": 270,
+                  "img": "hot-dishes-img.png",
+                  "cuisine": 3,
+                  "protein": 1
+            },
+            {
+                  "type": 1,
+                  "price": 113.23,
+                  "name": "Суп травяной",
+                  "weight": 270,
+                  "img": "hot-dishes-img.png",
+                  "cuisine": 3,
+                  "protein": 1
+            },
+            {
+                  "type": 1,
+                  "price": 113.23,
+                  "name": "Суп с шиповником",
+                  "weight": 270,
+                  "img": "hot-dishes-img.png",
+                  "cuisine": 3,
+                  "protein": 1
+            },
+            {
+                  "type": 1,
+                  "price": 113.23,
+                  "name": "Суп томатный",
+                  "weight": 270,
+                  "img": "hot-dishes-img.png",
+                  "cuisine": 3,
+                  "protein": 1
+            },
+            {
+                  "type": 1,
+                  "price": 143.50,
+                  "name": "Суп с морским горохом",
+                  "weight": 270,
+                  "img": "hot-dishes-img.png",
+                  "cuisine": 3,
+                  "protein": 1
+            },
+            {
+                  "type": 1,
+                  "price": 213.50,
+                  "name": "Гороховый суп по-итальянски",
+                  "weight": 270,
+                  "img": "hot-dishes-img.png",
+                  "cuisine": 2,
+                  "protein": 1
+            },
+            {
+                  "type": 1,
+                  "price": 444.50,
+                  "name": "Гороховые моллюски",
+                  "weight": 270,
+                  "img": "hot-dishes-img.png",
+                  "cuisine": 4,
+                  "protein": 2
+            },
+            {
+                  "type": 1,
+                  "price": 233.50,
+                  "name": "Суп с гороховым кремом",
+                  "weight": 270,
+                  "img": "hot-dishes-img.png",
+                  "cuisine": 3,
+                  "protein": 1
+            },
+            {
+                  "type": 1,
+                  "price": 111.10,
+                  "name": "Кипяток",
+                  "weight": 270,
+                  "img": "hot-dishes-img.png",
+                  "cuisine": 3,
+                  "protein": 3
+            },
+            {
+                  "type": 1,
+                  "price": 228.15,
+                  "name": "Самса",
+                  "weight": 270,
+                  "img": "hot-dishes-img.png",
+                  "cuisine": 4,
+                  "protein": 1
+            },
+            {
+                  "type": 5,
+                  "price": 123.43,
+                  "name": "Суп с мазиком",
+                  "weight": 220,
+                  "img": "soup-4.png",
+                  "cuisine": 2,
+                  "protein": 1
+            },
+            {
+                  "type": 5,
+                  "price": 115.50,
+                  "name": "Суп с морским огурцом",
+                  "weight": 230,
+                  "img": "soup-4.png",
+                  "cuisine": 3,
+                  "protein": 1
+            },
+            {
+                  "type": 5,
+                  "price": 153.50,
+                  "name": "Самый вкусный суп",
+                  "weight": 200,
+                  "img": "soup-4.png",
+                  "cuisine": 3,
+                  "protein": 1
+            },
+            {
+                  "type": 5,
+                  "price": 220.00,
+                  "name": "Шаурма на труда",
+                  "weight": 550,
+                  "img": "soup-4.png",
+                  "cuisine": 3,
+                  "protein": 3
+            },
+            {
+                  "type": 5,
+                  "price": 551.50,
+                  "name": "Шаурма с гордона",
+                  "weight": 210,
+                  "img": "soup-4.png",
+                  "cuisine": 4,
+                  "protein": 1
+            },
+            {
+                  "type": 5,
+                  "price": 333.00,
+                  "name": "Дёнер",
+                  "weight": 219,
+                  "img": "soup-4.png",
+                  "cuisine": 4,
+                  "protein": 2
+            },
+            {
+                  "type": 5,
+                  "price": 323.23,
+                  "name": "Бурум",
+                  "weight": 370,
+                  "img": "soup-4.png",
+                  "cuisine": 4,
+                  "protein": 2
+            },
+            {
+                  "type": 2,
+                  "price": 123.43,
+                  "name": "Суп с тефтелями",
+                  "weight": 220,
+                  "img": "soup-1.png",
+                  "cuisine": 4,
+                  "protein": 2
+            },
+            {
+                  "type": 2,
+                  "price": 115.50,
+                  "name": "Суп с морским ежом",
+                  "weight": 230,
+                  "img": "soup-1.png",
+                  "cuisine": 3,
+                  "protein": 1
+            },
+            {
+                  "type": 2,
+                  "price": 153.50,
+                  "name": "Самый сладкий суп",
+                  "weight": 200,
+                  "img": "soup-1.png",
+                  "cuisine": 4,
+                  "protein": 1
+            },
+            {
+                  "type": 2,
+                  "price": 220.00,
+                  "name": "Шаурма на цвиллинга",
+                  "weight": 550,
+                  "img": "soup-1.png",
+                  "cuisine": 3,
+                  "protein": 3
+            },
+            {
+                  "type": 2,
+                  "price": 551.50,
+                  "name": "Шаурма с дюрема",
+                  "weight": 210,
+                  "img": "soup-1.png",
+                  "cuisine": 3,
+                  "protein": 1
+            },
+            {
+                  "type": 2,
+                  "price": 333.00,
+                  "name": "Лёнер",
+                  "weight": 219,
+                  "img": "soup-1.png",
+                  "cuisine": 3,
+                  "protein": 1
+            },
+            {
+                  "type": 2,
+                  "price": 323.23,
+                  "name": "Пурум",
+                  "weight": 370,
+                  "img": "soup-1.png",
+                  "cuisine": 2,
+                  "protein": 1
+            },
+            {
+                  "type": 3,
+                  "price": 123.43,
+                  "name": "Суп с картошкой",
+                  "weight": 220,
+                  "img": "soup-7.png",
+                  "cuisine": 4,
+                  "protein": 2
+            },
+            {
+                  "type": 3,
+                  "price": 115.50,
+                  "name": "Суп с морским коньком",
+                  "weight": 230,
+                  "img": "soup-7.png",
+                  "cuisine": 3,
+                  "protein": 1
+            },
+            {
+                  "type": 3,
+                  "price": 153.50,
+                  "name": "Самый горький суп",
+                  "weight": 200,
+                  "img": "soup-7.png",
+                  "cuisine": 4,
+                  "protein": 1
+            },
+            {
+                  "type": 3,
+                  "price": 220.00,
+                  "name": "Шаурма на ленина",
+                  "weight": 550,
+                  "img": "soup-7.png",
+                  "cuisine": 3,
+                  "protein": 3
+            },
+            {
+                  "type": 3,
+                  "price": 551.50,
+                  "name": "Шаурма с гриля",
+                  "weight": 210,
+                  "img": "soup-7.png",
+                  "cuisine": 3,
+                  "protein": 1
+            },
+            {
+                  "type": 3,
+                  "price": 333.00,
+                  "name": "Понер",
+                  "weight": 219,
+                  "img": "soup-7.png",
+                  "cuisine": 3,
+                  "protein": 1
+            },
+            {
+                  "type": 3,
+                  "price": 323.23,
+                  "name": "Хумус",
+                  "weight": 370,
+                  "img": "soup-7.png",
+                  "cuisine": 2,
+                  "protein": 1
+            },
+            {
+                  "type": 2,
+                  "price": 123.43,
+                  "name": "Суп с креветками",
+                  "weight": 220,
+                  "img": "soup-5.png",
+                  "cuisine": 3,
+                  "protein": 3
+            },
+            {
+                  "type": 4,
+                  "price": 115.50,
+                  "name": "Суп с морским львом",
+                  "weight": 230,
+                  "img": "soup-5.png",
+                  "cuisine": 3,
+                  "protein": 1
+            },
+            {
+                  "type": 4,
+                  "price": 153.50,
+                  "name": "Самый солёный суп",
+                  "weight": 200,
+                  "img": "soup-5.png",
+                  "cuisine": 3,
+                  "protein": 3
+            },
+            {
+                  "type": 4,
+                  "price": 220.00,
+                  "name": "Шаурма на энгельса",
+                  "weight": 550,
+                  "img": "soup-5.png",
+                  "cuisine": 3,
+                  "protein": 2
+            },
+            {
+                  "type": 4,
+                  "price": 551.50,
+                  "name": "Шаурма на углях",
+                  "weight": 210,
+                  "img": "soup-5.png",
+                  "cuisine": 3,
+                  "protein": 3
+            },
+            {
+                  "type": 4,
+                  "price": 333.00,
+                  "name": "Киев-стонер",
+                  "weight": 219,
+                  "img": "soup-5.png",
+                  "cuisine": 3,
+                  "protein": 1
+            },
+            {
+                  "type": 4,
+                  "price": 323.23,
+                  "name": "Уха",
+                  "weight": 370,
+                  "img": "soup-5.png",
+                  "cuisine": 4,
+                  "protein": 1
+            },
+            {
+                  "type": 6,
+                  "price": 123.43,
+                  "name": "Суп с оливками",
+                  "weight": 220,
+                  "img": "soup-2.png",
+                  "cuisine": 2,
+                  "protein": 3
+            },
+            {
+                  "type": 6,
+                  "price": 115.50,
+                  "name": "Суп с красным перцем",
+                  "weight": 230,
+                  "img": "soup-2.png",
+                  "cuisine": 2,
+                  "protein": 1
+            },
+            {
+                  "type": 6,
+                  "price": 153.50,
+                  "name": "Самый дешёвый суп",
+                  "weight": 200,
+                  "img": "soup-2.png",
+                  "cuisine": 2,
+                  "protein": 2
+            },
+            {
+                  "type": 6,
+                  "price": 220.00,
+                  "name": "Шаурма на свердловском проспекте",
+                  "weight": 550,
+                  "img": "soup-2.png",
+                  "cuisine": 4,
+                  "protein": 1
+            },
+            {
+                  "type": 6,
+                  "price": 551.50,
+                  "name": "Шаурма с апельсином",
+                  "weight": 210,
+                  "img": "soup-2.png",
+                  "cuisine": 4,
+                  "protein": 2
+            },
+            {
+                  "type": 6,
+                  "price": 333.00,
+                  "name": "Хлопья",
+                  "weight": 219,
+                  "img": "soup-2.png",
+                  "cuisine": 3,
+                  "protein": 1
+            },
+            {
+                  "type": 6,
+                  "price": 323.23,
+                  "name": "Шлёпа",
+                  "weight": 370,
+                  "img": "soup-2.png",
+                  "cuisine": 3,
+                  "protein": 1
+            }
+      ]
+}
